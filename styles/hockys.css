@@ -697,3 +697,77 @@ letter-spacing: 0%;
 .landing-page-design .box-text {
     margin-left: 224px;
 }
+.landing-page-design .text-16 {
+/* World Cup Flags Football */
+position: absolute;
+width: 242px;
+height: 27px;
+margin-top: 35px;
+}
+.landing-page-design .text-17 {
+/* Dolor sit amet consectetur. Ut urna diam quis sagittis. */
+position: absolute;
+width: 306px;
+height: 52px;
+margin-top: 72px;
+}
+.landing-page-design .text-design-6a {
+    color: rgb(19, 19, 24);
+font-family: Manrope;
+font-size: 20px;
+font-weight: 800;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: left;
+}
+.landing-page-design .text-design-7b {
+    color: rgba(19, 19, 24, 0.6);
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.landing-page-design .price-cart {
+    margin-left: 224px;
+    margin-top: 140px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.landing-page-design .price-box {
+    position: absolute;
+width: 124px;
+height: 26px;
+}
+.landing-page-design .price {
+    color: rgb(255, 66, 64);
+font-family: Manrope;
+font-size: 18px;
+font-weight: 800;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.landing-page-design .shopping-cart {
+    /* Frame */
+position: relative;
+width: 24px;
+height: 24px;
+margin-left: 150px;
+display: inline-flex;
+gap: 10px;
+}
+.landing-page-design .delivery {
+    /* Delivery Fee : Free */
+    color: rgba(19, 19, 24, 0.5);
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: left;
+    white-space: nowrap;
+}
