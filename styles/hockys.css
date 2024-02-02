@@ -1,0 +1,462 @@
+.landing-page-design {
+    width: 1440px;
+    height: 6195px;
+    background-color: white;
+}
+.landing-page-design .navbar {
+    height: 57px;
+    width: 1170px;
+    margin-top: 50px;
+    margin-left: 135px;
+}
+.landing-page-design .group-1 {
+    height: 56px;
+    width: 1169px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.landing-page-design .text {
+    position: absolute;
+    width: 160px;
+    height: 49px;
+    left: 135px;
+    top: 50px;
+}
+.landing-page-design .text-design-1 {
+    font-family: 'Manrope', sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 49px;
+    letter-spacing: 0%;
+}
+.landing-page-design .span {
+    font-family: 'Manrope', sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 49px;
+}
+.landing-page-design .text-1 {
+    margin-left: 359px;
+    position: static;
+    width: 46px;
+    height: 22px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px 10px 0px;
+}
+.landing-page-design .text-design-2 {
+    font-family: 'Manrope', sans-serif;
+    color: rgb(255, 66, 64);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.landing-page-design .text-2 {
+    margin-left: 44px;
+    position: static;
+    width: 45px;
+    height: 22px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px 10px 0px;
+}
+.landing-page-design .text-design-3 {
+    color: rgb(66, 66, 71);
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.landing-page-design .text-3 {
+    margin-left: 44px;
+    position: static;
+    width: 46px;
+    height: 22px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px 10px 0px;
+}
+.landing-page-design .text-4 {
+    margin-left: 44px;
+    position: static;
+    width: 33px;
+    height: 22px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px 10px 0px;
+}
+.landing-page-design .text-5 {
+    margin-left: 44px;
+    position: static;
+    width: 61px;
+    height: 22px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px 10px 0px;
+}
+.landing-page-design .img {
+    margin-left: 208px;
+    position: static;
+    height: 24px;
+    width: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.landing-page-design .img-design {
+    text-align: center;
+    width: 14px;
+    height: 14px;
+    left: 3px;
+    top: 3px;
+}
+.landing-page-design .mm {
+    background-color: #ff5400;
+    border-color: #ff5400;
+    border-radius: 8px;
+    position: relative;
+    margin-left: 28px;
+    height: 57px;
+    width: 148px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 24px 15px 24px;
+
+}
+.landing-page-design .button-text {
+    color: white;
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 27px;
+    letter-spacing: 0%;
+    text-align: center;
+    white-space: nowrap;
+}
+.landing-page-design .group-2 {
+    margin-left: 135px;
+    height: 550px;
+    margin-top: 68px;
+    width: 1170px;
+    border-radius: 16px;
+}
+.landing-page-design .button-1 {
+    margin-left: 32px;
+    margin-top: 380px;
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 40px;
+}
+.landing-page-design .button-2 {
+    margin-top: 380px;
+    margin-right: 1000px;
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 40px;
+}
+.landing-page-design .slide-box {
+    /* Frame 3 */
+    /* Frame 3 */
+    position: absolute;
+    width: 566px;
+    height: 165px;
+    left: 707px;
+    right: 167px;
+    top: 510px;
+    bottom: 5520px;
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 32px;
+    border-radius: 16px;
+    background: rgb(19, 19, 24);
+
+
+}
+.landing-page-design .slide-box-text-1 {
+    /* Meet all the heroes from the field */
+    position: static;
+    width: 391px;
+    height: 33px;
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+
+
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 10px 0px;
+}
+.landing-page-design .side-box-text-design-1 {
+    color: rgb(255, 255, 255);
+font-family: Manrope;
+font-size: 24px;
+font-weight: 800;
+line-height: 33px;
+letter-spacing: 0%;
+text-align: left;
+    }
+.landing-page-design .slide-box-text-2 {
+/* Dit amet consectetur. Condimentum dignissim adipiscing aliquam turpis placerat dolor. Purus urna in sit nullam proin. */
+    position: static;
+    width: 502px;
+    height: 52px;
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0px;
+
+
+    /* Inside Auto Layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 16px 0px;
+}
+.landing-page-design .slide-box-text-design-2 {
+    font-family: 'Manrope', sans-serif;
+    color:white;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.landing-page-design .line {
+    /* Line 2 */
+position: absolute;
+width: 1170px;
+height: 0;
+left: 135px;
+top: 806.5px;
+border: 1px dashed rgba(19, 19, 24, 0.2);
+}
+.landing-page-design .text-6 {
+    /* Professional Hockeys Club */
+position: absolute;
+width: 472px;
+height: 49px;
+left: 483px;
+right: -348px;
+top: 839px;
+bottom: -763px;
+}
+.landing-page-design .text-design-6 {
+    color: rgb(19, 19, 24);
+    font-family: 'Manrope', sans-serif;
+font-size: 36px;
+font-weight: 800;
+line-height: 49px;
+letter-spacing: 0%;
+text-align: center;
+}
+.landing-page-design .text-7 {
+    /* Dit amet consectetur. Condimentum dignissim adipiscing aliquam turpis placerat dolor. Purus urna in sit nullam proin. */
+position: absolute;
+width: 607px;
+height: 52px;
+left: 416px;
+right: -416px;
+top: 912px;
+bottom: -839px;
+}
+.landing-page-design .text-design-7 {
+    color: rgba(19, 19, 24, 0.6);
+    font-family: 'Manrope', sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+.landing-page-design .line-1 {
+    /* Line 1 */
+position: absolute;
+width: 1170px;
+height: 0;
+left: 135px;
+top: 995.5px;
+border: 1px dashed rgba(19, 19, 24, 0.2);
+}
+.landing-page-design .progressbar {
+    margin-top: 300px;
+    margin-left: 250px;
+    display: flex;
+    flex-direction: row;
+    gap: 162px;
+}
+.landing-page-design .group-3 {
+    display: flex;
+    flex-direction: row;
+
+}
+.landing-page-design .group-text-box-31 {
+    /* Prayer Facility */
+position: absolute;
+width: 133px;
+height: 27px;
+left: 230px;
+right: -230px;
+top: 1188px;
+bottom: -1044px;
+}
+.landing-page-design .group-text-box-32 {
+    /* Experienced Coach */
+position: absolute;
+width: 185px;
+height: 27px;
+left: 486px;
+right: -486px;
+top: 1188px;
+bottom: -1044px;
+}
+.landing-page-design .group-text-design-box-32 {
+    color: rgb(19, 19, 24);
+    font-family: 'Manrope', sans-serif;
+font-size: 20px;
+font-weight: 600;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: center;
+white-space: nowrap;
+}
+.landing-page-design .group-text-box-33 {
+    /* Senior Player */
+position: absolute;
+width: 125px;
+height: 27px;
+left: 798px;
+right: -798px;
+top: 1188px;
+bottom: -1044px;
+}
+.landing-page-design .group-text-box-34 {
+    /* Training Ground */
+position: absolute;
+width: 153px;
+height: 27px;
+left: 1066px;
+right: -1066px;
+top: 1188px;
+bottom: -1044px;
+}
+.landing-page-design .group-4 {
+    display: flex;
+    flex-direction: row;
+
+}
+.landing-page-design .group-text-box-41 {
+    /* Amet consectetur. Condimentum dignissim adipiscing . */
+position: absolute;
+width: 250px;
+height: 52px;
+left: 172px;
+right: -172px;
+top: 1231px;
+bottom: -1044px;
+}
+.landing-page-design .group-text-box-42 {
+   /* Amet consectetur. Condimentum dignissim adipiscing . */
+position: absolute;
+width: 250px;
+height: 52px;
+left: 454px;
+right: -454px;
+top: 1231px;
+bottom: -1044px;
+}
+.landing-page-design .group-text-design-box-42 {
+    font-family: 'Manrope', sans-serif;
+    color: rgba(19, 19, 24, 0.6);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.landing-page-design .group-text-box-43 {
+    /* Amet consectetur. Condimentum dignissim adipiscing . */
+position: absolute;
+width: 250px;
+height: 52px;
+left: 736px;
+right: -736px;
+top: 1231px;
+bottom: -1044px;
+}
+.landing-page-design .group-text-box-44 {
+    /* Amet consectetur. Condimentum dignissim adipiscing . */
+position: absolute;
+width: 250px;
+height: 52px;
+left: 1018px;
+right: -1018px;
+top: 1231px;
+bottom: -1044px;
+}
+.landing-page-design .line-2 {
+    /* Line 2 */
+position: absolute;
+width: 1170px;
+height: 0;
+left: 135px;
+top: 1382.5px;
+border: 1px dashed rgba(19, 19, 24, 0.2);
+}
+.landing-page-design .text-8 {
+    /* Program Sections */
+position: absolute;
+width: 318px;
+height: 49px;
+left: 560px;
+right: -271px;
+top: 1415px;
+bottom: -1339px;
+}
+.landing-page-design .text-9 {
+    /* Dit amet consectetur. Condimentum dignissim adipiscing aliquam turpis placerat dolor. Purus urna in sit nullam proin. */
+position: absolute;
+width: 607px;
+height: 52px;
+left: 416px;
+right: -416px;
+top: 1488px;
+bottom: -1415px;
+}
+.landing-page-design .line-3 {
+    /* Line 2 */
+position: absolute;
+width: 1170px;
+height: 0;
+left: 135px;
+top: 1571.5px;
+border: 1px dashed rgba(19, 19, 24, 0.2);
+}
