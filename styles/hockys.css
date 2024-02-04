@@ -910,3 +910,197 @@ margin-top: 10px;
     margin-left: 550px;
     margin-top: -5px;
 }
+.landing-page-design .line-9 {
+    position: absolute;
+    width: 1170px;
+    height: 0;
+    left: 135px;
+    top: 4441.5px;
+    border: 1px dashed rgba(19, 19, 24, 0.2);
+}
+.landing-page-design .text-22 {
+    position: absolute;
+    width: 221px;
+    height: 49px;
+    left: 609px;
+top: 4474px;
+}
+.landing-page-design .text-23 {
+    position: absolute;
+    width: 607px;
+height: 52px;
+left: 416px;
+    top: 4547px;
+}
+.landing-page-design .line-10 {
+    position: absolute;
+    width: 1170px;
+    height: 0;
+    left: 135px;
+    top: 4630.5px;
+    border: 1px dashed rgba(19, 19, 24, 0.2);
+}
+.landing-page-design .group-9 {
+    height: 767px;
+    width: 1172px;
+    margin-top: 3579px;
+    margin-left: 135px;
+    display: flex;
+    flex-direction: row;
+    gap: 23px;
+}
+.landing-page-design .group-91 {
+    background: white;
+    width: 474px;
+    height: 764px;
+    box-sizing: border-box;
+    border: 1px solid rgba(19, 19, 24, 0.1);
+    border-radius: 16px;
+}
+.landing-page-design .group-9111 {
+    display: flex;
+    flex-direction: column;
+}
+.landing-page-design .rectangle-1 {
+/* Rectangle 31718 */
+    width: 374px;
+    height: 216px;
+    border-radius: 16px;
+    background:lightgreen;
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.landing-page-design .rectangle-2 {
+    width: 374px;
+    height: 216px;
+    border-radius: 16px;
+    background:khaki;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-top: 24px;
+    margin-left: 50px;
+}
+.landing-page-design .rectangle-3 {
+    width: 374px;
+    height: 216px;
+    border-radius: 16px;
+    background:lightblue;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 24px;
+    margin-top: 24px;
+    margin-left: 50px;
+}
+.landing-page-design .rec-img1 {
+    /* Group 1171275317 */
+width: 48px;
+height: 48px;
+margin-left: 32px;
+margin-top: 32px;
+}
+.landing-page-design .rec-text1 {
+margin-left: 32px;
+}
+.landing-page-design .rec-text11 {
+margin-left: 32px;
+}
+.landing-page-design .rec-text-design-1 {
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+    color: rgb(19, 19, 24, 0.4)
+}
+.landing-page-design .rec-text-design-2 {
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+    color: rgb(19, 19, 24)
+}
+.landing-page-design .text-design-sub-9 {
+    color: rgb(19, 19, 24);
+font-family: Manrope;
+font-size: 20px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: left;
+}
+.landing-page-design .group-sub-91 {
+    display:flex;
+    flex-direction: row;
+    gap: 24px
+}
+.landing-page-design .height-sub {
+    height: 425px;
+}
+.landing-page-design .group-sub-911 {
+    width: 672px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+.landing-page-design .width-length {
+    width: 324px;
+    height: 64px;
+}
+.landing-page-design .send-massage {
+    /* Frame 2 */
+position: absolute;
+width: 672px;
+height: 57px;
+justify-content: center;
+align-items: center;
+padding: 15px 24px 15px 24px;
+box-sizing: border-box;
+border: 1px solid rgb(255, 66, 64);
+border-radius: 12px;
+background: rgb(255, 66, 64);
+}
+.landing-page-design .send-massage-text {
+    color: rgb(255, 255, 255);
+font-family: Manrope;
+font-size: 20px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: center;
+}
+.landing-page-design .group-10 {
+    width: 1172px;
+    margin-left: 135px;
+    margin-top: 48px;
+}
+.landing-page-design .group-100 {
+    width: 1170px;
+    height: 150px;
+    border-radius: 12px;
+background: rgba(19, 19, 24, 0.03);
+}
+.landing-page-design .group-10-textbox-1 {
+/* Social Media */
+width: 150px;
+height: 33px;
+margin-left: 470px;
+padding: 35px;
+}
+.landing-page-design .group-10-text-design-1 {
+    color: rgb(19, 19, 24);
+font-family: Manrope;
+font-size: 24px;
+font-weight: 800;
+line-height: 33px;
+letter-spacing: 0%;
+text-align: center;
+white-space: nowrap;
+}
