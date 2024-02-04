@@ -1104,3 +1104,19 @@ letter-spacing: 0%;
 text-align: center;
 white-space: nowrap;
 }
+.landing-page-design .social-icon {
+margin-top: 20px;
+margin-left: 500px;
+}
+.landing-page-design .icons {
+display: flex;
+flex-direction: row;
+gap: 25px;
+}
+.landing-page-design .icons-size {
+    width: 19.89px;
+    height: 16px;
+}
+.landing-page-design .footer11 {
+    margin-top: 100px;
+}
