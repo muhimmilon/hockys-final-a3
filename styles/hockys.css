@@ -44,6 +44,7 @@
     font-size: 36px;
     font-weight: 800;
     line-height: 49px;
+    color: #ff5400;
 }
 .landing-page-design .text-1 {
     margin-left: 359px;
@@ -148,7 +149,6 @@
     justify-content: center;
     align-items: center;
     padding: 15px 24px 15px 24px;
-
 }
 .landing-page-design .button-text {
     color: white;
@@ -566,7 +566,7 @@ border: 1px dashed rgba(19, 19, 24, 0.2);
 position: absolute;
 width: 319px;
 height: 49px;
-left: 500px;
+left: 560px;
 top: 2564px;
 }
 .landing-page-design .text-15 {
@@ -1142,6 +1142,7 @@ gap: 25px;
     font-size: 24px;
     font-weight: 800;
     line-height: 33px;
+    color: #ff5400;
 }
 .landing-page-design .text-1 {
     margin-left: 359px;
@@ -1219,8 +1220,8 @@ gap: 25px;
 .landing-page-design .img {
     margin-left: 208px;
     position: static;
-    height: 24px;
-    width: 24px;
+    height: 0px;
+    width: 0px;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -1238,7 +1239,7 @@ gap: 25px;
     border-color: #ff5400;
     border-radius: 8px;
     position: relative;
-    margin-left: -795px;
+    margin-left: -771px;
     height: 41px;
     margin-top: -30px;
     width: 124px;
@@ -1267,15 +1268,15 @@ gap: 25px;
     border-radius: 12px;
 }
 .landing-page-design .button-1 {
-    margin-left: 120px;
-    margin-top: 82px;
+    margin-left: 115px;
+    margin-top: 120px;
     background-color: black;
     color: white;
     height: 28px;
     width: 28px;
 }
 .landing-page-design .button-2 {
-    margin-top: 82px;
+    margin-top: 120px;
     margin-right: 110px;
     background-color: black;
     color: white;
@@ -1457,7 +1458,7 @@ border: 1px dashed rgba(19, 19, 24, 0.2);
     width: 194px;
     height: 30px;
     left: 91px;
-    top: 1840px;
+    top: 1870px;
 }
 .landing-page-design .text-9 {
     /* Dit amet consectetur. Condimentum dignissim adipiscing aliquam turpis placerat dolor. Purus urna in sit nullam proin. */
@@ -1465,7 +1466,7 @@ border: 1px dashed rgba(19, 19, 24, 0.2);
     width: 292px;
     height: 72px;
     left: 42px;
-    top: 1900px;
+    top: 1920px;
 }
 .landing-page-design .line-3 {
     /* Line 1 */
@@ -1664,7 +1665,7 @@ border: 1px dashed rgba(19, 19, 24, 0.2);
 position: absolute;
 width: 195px;
 height: 30px;
-left: 40px;
+left: 100px;
 top: 2930px;
 }
 .landing-page-design .text-15 {
@@ -1852,7 +1853,7 @@ position: absolute;
 width: 183px;
 height: 30px;
 left: 97px;
-top: 6000px;
+top: 6020px;
 }
 .landing-page-design .text-19 {
 /* Dit amet consectetur. Condimentum dignissim adipiscing aliquam turpis placerat dolor. Purus urna in sit nullam proin. */
@@ -1860,7 +1861,7 @@ position: absolute;
 width: 292px;
 height: 72px;
 left: 42px;
-top: 6040px;
+top: 6070px;
 }
 .landing-page-design .line-7 {
     position: absolute;
@@ -1989,7 +1990,7 @@ margin-top: 10px;
     position: absolute;
     width: 136px;
     height: 30px;
-    left: 100px;
+    left: 120px;
 top: 6970px;
 }
 .landing-page-design .text-23 {
@@ -2148,7 +2149,7 @@ text-align: center;
 .landing-page-design .group-10 {
     width: 335px;
     margin-left: 20px;
-    margin-top: 1028px;
+    margin-top: 1000px;
 }
 .landing-page-design .group-100 {
     width: 335px;
@@ -2188,12 +2189,15 @@ gap: 25px;
 }
 .landing-page-design .footer11 {
     margin-top: 50px;
-    margin-left: 15px;
+    margin-left: 18px;
 }
 .landing-page-design .foooter {
     display: inline-flex;
 }
 .landing-page-design .margin {
-    margin-left: 100px;
+    margin-left: 85px;
+}
+.landing-page-design .middle {
+    margin-left: 60px;
 }
     }
