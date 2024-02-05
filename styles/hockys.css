@@ -1839,57 +1839,57 @@ gap: 10px;
 }
 .landing-page-design .line-6 {
     position: absolute;
-    width: 1170px;
+    width: 335px;
     height: 0;
-    left: 135px;
-    top: 3570.5px;
+    left: 20px;
+    top: 6000px;
     border: 1px dashed rgba(19, 19, 24, 0.2);
 }
 .landing-page-design .text-18 {
 /* Clients Question */
 position: absolute;
-width: 300px;
-height: 49px;
-left: 569px;
-top: 3603px;
+width: 183px;
+height: 30px;
+left: 97px;
+top: 6000px;
 }
 .landing-page-design .text-19 {
 /* Dit amet consectetur. Condimentum dignissim adipiscing aliquam turpis placerat dolor. Purus urna in sit nullam proin. */
 position: absolute;
-width: 607px;
-height: 52px;
-left: 416px;
-top: 3676px;
+width: 292px;
+height: 72px;
+left: 42px;
+top: 6040px;
 }
 .landing-page-design .line-7 {
     position: absolute;
-    width: 1170px;
+    width: 335px;
     height: 0;
-    left: 135px;
-    top: 3759.5px;
+    left: 20px;
+    top: 6150px;
     border: 1px dashed rgba(19, 19, 24, 0.2);
 }
 .landing-page-design .group-8 {
-    left: 135px;
-    top: 3808px;
+    left: 20px;
+    top: 6200px;
     position: absolute;
 }
 .landing-page-design .overlap1 {
     background: white;
-    width: 1170px;
-    height: 534px;
+    width: 335px;
+    height: 702px;
     box-sizing: border-box;
     border: 1px solid rgba(19, 19, 24, 0.1);
     border-radius: 16px;
     display:grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 10px;
+    grid-template-columns: repeat(1,1fr);
+    gap: 0px;
     
 }
 .landing-page-design .overlap1-img {
 position: absolute;
-width: 441px;
-height: 470px;
+width: 287px;
+height: 180px;
 margin-top: 24px;
 margin-left: 24px;
 }
@@ -1900,12 +1900,12 @@ margin-left: 24px;
 }
 .landing-page-design .text-21 {
     position: absolute;
-    width: 518px;
-    height: 52px;
+    width: 253px;
+    height: 72px;
     margin-top: 8px;
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 15px;
 }
 .landing-page-design .text-design-6aa {
     color: rgb(19, 19, 24);
@@ -1927,12 +1927,12 @@ margin-left: 24px;
     text-align: left;
 }
 .landing-page-design .overlap1-text {
-    margin-top: 32px;
-    margin-left: -60px;
+    margin-top: -120px;
+    margin-left: 20px;
 }
 .landing-page-design .line-8 {
     position: absolute;
-    width: 617px;
+    width: 287px;
     height: 0;
     left: 0px;
     border: 1px dashed rgba(19, 19, 24, 0.2);
@@ -1945,80 +1945,80 @@ margin-left: 24px;
 width: 24px;
 height: 24px;
 text-align: right;
-margin-left: 400px;
+margin-left: 110px;
 margin-top: 10px;
 }
 .landing-page-design .plus1 {
     width: 24px;
     height: 24px;
     text-align: right;
-    margin-left: 450px;
+    margin-left: 155px;
     margin-top: 10px;
 }
 .landing-page-design .plus2 {
     width: 24px;
     height: 24px;
     text-align: right;
-    margin-left: 477px;
+    margin-left: 185px;
     margin-top: 10px;
 }
 .landing-page-design .plus3 {
     width: 24px;
     height: 24px;
     text-align: right;
-    margin-left: 484px;
+    margin-left: 195px;
     margin-top: 10px;
 }
 .landing-page-design .plus4 {
     width: 24px;
     height: 24px;
     text-align: right;
-    margin-left: 550px;
-    margin-top: -5px;
+    margin-left: 125px;
+    margin-top: -10px;
 }
 .landing-page-design .line-9 {
     position: absolute;
-    width: 1170px;
+    width: 335px;
     height: 0;
-    left: 135px;
-    top: 4441.5px;
+    left: 20px;
+    top: 6950px;
     border: 1px dashed rgba(19, 19, 24, 0.2);
 }
 .landing-page-design .text-22 {
     position: absolute;
-    width: 221px;
-    height: 49px;
-    left: 609px;
-top: 4474px;
+    width: 136px;
+    height: 30px;
+    left: 100px;
+top: 6970px;
 }
 .landing-page-design .text-23 {
     position: absolute;
-    width: 607px;
-height: 52px;
-left: 416px;
-    top: 4547px;
+    width: 292px;
+height: 72px;
+left: 42px;
+    top: 7010px;
 }
 .landing-page-design .line-10 {
     position: absolute;
-    width: 1170px;
+    width: 335px;
     height: 0;
-    left: 135px;
-    top: 4630.5px;
+    left: 20px;
+    top: 7100px;
     border: 1px dashed rgba(19, 19, 24, 0.2);
 }
 .landing-page-design .group-9 {
-    height: 767px;
-    width: 1172px;
-    margin-top: 3579px;
-    margin-left: 135px;
+    height: 696px;
+    width: 335px;
+    margin-top: 5380px;
+    margin-left: 20px;
     display: flex;
-    flex-direction: row;
-    gap: 23px;
+    flex-direction: column;
+    gap: 15px;
 }
 .landing-page-design .group-91 {
     background: white;
-    width: 474px;
-    height: 764px;
+    width: 335px;
+    height: 696px;
     box-sizing: border-box;
     border: 1px solid rgba(19, 19, 24, 0.1);
     border-radius: 16px;
@@ -2026,41 +2026,43 @@ left: 416px;
 .landing-page-design .group-9111 {
     display: flex;
     flex-direction: column;
+    gap: 10px;
 }
 .landing-page-design .rectangle-1 {
 /* Rectangle 31718 */
-    width: 374px;
-    height: 216px;
+    width: 287px;
+    height: 184px;
     border-radius: 16px;
     background:lightgreen;
     display:flex;
     flex-direction: column;
     gap: 10px;
-    margin-top: 50px;
-    margin-left: 50px;
+    margin-top: 10px;
+    margin-left: 24px;
 
 }
 .landing-page-design .rectangle-2 {
-    width: 374px;
-    height: 216px;
+    width: 287px;
+    height: 184px;
     border-radius: 16px;
     background:khaki;
     display: inline-flex;
     flex-direction: column;
-    gap: 24px;
-    margin-top: 24px;
-    margin-left: 50px;
+    gap: 10px;
+    margin-top: 10px;
+    margin-left: 24px;
 }
 .landing-page-design .rectangle-3 {
-    width: 374px;
-    height: 216px;
+    width: 287px;
+    height: 184px;
     border-radius: 16px;
     background:lightblue;
     display: inline-flex;
     flex-direction: column;
-    gap: 24px;
-    margin-top: 24px;
-    margin-left: 50px;
+    gap: 10px;
+    margin-top: 10px;
+    margin-left: 24px;
+    margin-bottom: 10px;
 }
 .landing-page-design .rec-img1 {
     /* Group 1171275317 */
@@ -2104,14 +2106,14 @@ text-align: left;
 }
 .landing-page-design .group-sub-91 {
     display:flex;
-    flex-direction: row;
+    flex-direction: column;
     gap: 24px
 }
 .landing-page-design .height-sub {
     height: 425px;
 }
 .landing-page-design .group-sub-911 {
-    width: 672px;
+    width: 335px;
     display: flex;
     flex-direction: column;
     gap: 32px;
@@ -2123,7 +2125,7 @@ text-align: left;
 .landing-page-design .send-massage {
     /* Frame 2 */
 position: absolute;
-width: 672px;
+width: 335px;
 height: 57px;
 justify-content: center;
 align-items: center;
@@ -2143,12 +2145,12 @@ letter-spacing: 0%;
 text-align: center;
 }
 .landing-page-design .group-10 {
-    width: 1172px;
-    margin-left: 135px;
-    margin-top: 48px;
+    width: 335px;
+    margin-left: 20px;
+    margin-top: 1028px;
 }
 .landing-page-design .group-100 {
-    width: 1170px;
+    width: 335px;
     height: 150px;
     border-radius: 12px;
 background: rgba(19, 19, 24, 0.03);
@@ -2157,7 +2159,7 @@ background: rgba(19, 19, 24, 0.03);
 /* Social Media */
 width: 150px;
 height: 33px;
-margin-left: 470px;
+margin-left: 52px;
 padding: 35px;
 }
 .landing-page-design .group-10-text-design-1 {
@@ -2172,7 +2174,7 @@ white-space: nowrap;
 }
 .landing-page-design .social-icon {
 margin-top: 20px;
-margin-left: 500px;
+margin-left: 90px;
 }
 .landing-page-design .icons {
 display: flex;
@@ -2184,9 +2186,13 @@ gap: 25px;
     height: 16px;
 }
 .landing-page-design .footer11 {
-    margin-top: 100px;
+    margin-top: 50px;
+    margin-left: 15px;
 }
 .landing-page-design .foooter {
     display: inline-flex;
+}
+.landing-page-design .margin {
+    margin-left: 100px;
 }
     }
